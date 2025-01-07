@@ -19,7 +19,7 @@ const checkButton = document.getElementById('checkButton').addEventListener('cli
     }
 })
 
-// я не знаю як робити третє завдання 
+// я не знаю як робити третє завдання, поясніть на менторській будь ласка
 
 const callbackArray = (numbers, callback) => {
     const result = [];
